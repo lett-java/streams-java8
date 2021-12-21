@@ -6,7 +6,7 @@ import java.util.Optional;
 import java.util.OptionalDouble;
 import java.util.stream.DoubleStream;
 
-public class Java8_Streams_Reduce {
+public class Reduce {
 	public static void main(String[] args) {
 
 		String s = "Inscreva-se no canal e compartilhe esse video";
